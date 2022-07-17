@@ -1,4 +1,4 @@
-# Docker exercise 01
+# Docker exercise 02
 
 # # Description
  Descargar imagen nicopaez/pingapp:3.0.0
