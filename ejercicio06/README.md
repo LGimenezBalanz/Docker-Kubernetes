@@ -1,4 +1,4 @@
-# Docker exercise 04
+# Docker exercise 06
 
 
 ## Build image 
