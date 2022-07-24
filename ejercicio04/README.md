@@ -3,12 +3,12 @@
 
 ## Build image 
 ```
-$ docker build -t ejercicio4LG . --build-arg JAR_FILE=./passwordapi.jar
+$ docker build -t ejercicio4-lg . --build-arg JAR_FILE=./passwordapi.jar
 ```
 
 ## Docker run
 ```
-$ docker run --name ejercicio4LG -d -p 3000:8080 ejercicio4LG
+$ docker run --name ejercicio4-lg -d -p 3000:8080 ejercicio4-lg
 $ start chrome http://localhost:3000/
 ```
 
