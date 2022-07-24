@@ -1,6 +1,6 @@
 # Docker exercise 02
 
-# # Description
+## Description
  Descargar imagen nicopaez/pingapp:3.0.0
 ```
 $ docker pull nicopaez/pingapp:3.0.0
