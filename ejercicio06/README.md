@@ -3,7 +3,7 @@
 
 ## Build image 
 ```
-$ docker build -t ejercicio6-lg . --build-arg JAR_FILE=./passwordapi.jar
+$ docker build -t ejercicio6-lg .
 ```
 
 ## Docker run
