@@ -19,4 +19,4 @@ spec:
           image: nicopaez/telegrambot:0.0.7
           env:
             - name: TELEGRAM_TOKEN
-              value: 5418657054:AAFlcZH1Niyr6JZaUwvX4L3Y67e9ATpbOKM
+              value: A COMPLETAR
