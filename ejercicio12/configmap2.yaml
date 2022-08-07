@@ -5,5 +5,4 @@ metadata:
   labels:
     app: pingapp
 data:
-  config.json: |
-    { "key1": "value1"}
+  config.json: { "key1": "value1"}
